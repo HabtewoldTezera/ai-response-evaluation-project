@@ -61,3 +61,13 @@ General AI output quality assurance
 Outcome
 
 This project highlights strong attention to detail, analytical thinking, and the ability to apply consistent evaluation standards. It demonstrates practical experience relevant to AI response evaluation, content quality review, and AI training support tasks.
+---
+
+### Project Structure
+- README.md – Project overview and evaluation methodology  
+- sample_ai_response_evaluation.md – Example of AI response review and feedback  
+
+---
+
+### Notes
+This project is designed as a demonstration of AI response evaluation skills. All examples are illustrative and focus on quality review methodology rather than real user data.
